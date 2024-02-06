@@ -6,4 +6,3 @@ Pour installer, écrivez dans le terminal : pip install pygame
 
 Projet Perso
 Creer en Python sur PyCharm
-Creer le 30/01/2024
